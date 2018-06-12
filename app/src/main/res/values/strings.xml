@@ -1,6 +1,116 @@
 <resources>
-  <string name="app_name">FIFA World Cup 2018</string>
+  <string name="app_name">FIFA</string>
 
-  <!-- TODO: Remove or change this placeholder text -->
-  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string-array name="Main">
+    <item> Russia VS Saudi Arab </item>
+    <item> Egypt VS Uruguay </item>
+    <item> Morocco VS IR Iran </item>
+    <item> Portugal VS Spain </item>
+    <item> France VS Australia </item>
+    <item> Argentine VS Iceland </item>
+    <item> Peru VS Denmark </item>
+    <item> Croatia VS Nigeria </item>
+    <item> Costa Rica VS Serbia </item>
+    <item> Germany VS Mexico </item>
+    <item> Brazil VS Switzerland </item>
+   <!--<item> Sweden VS Korea Republic </item>
+    <item> Belgium VS Panama </item>
+    <item> Tunisia VS England </item>
+      <item> Colombia VS Japan </item>
+      <item> Poland VS Senegal</item>
+      <item> Russia VS Egypt </item>
+      <item> Portugal VS Morocco </item>
+      <item> Uruguay VS Saudi Arabia </item>
+      <item> IR Iran VS Spain </item>
+      <item> Denmark VS Australia </item>
+      <item> France VS Peru </item>-->
+  </string-array>
+
+  <string-array name="Description1">
+    <item> 14th June,2018 | 9.00 pm BST </item>
+    <item> 15th June, 2018 | 6.00 pm BST </item>
+      <item> 15th June, 2018 | 9.00 pm BST </item>
+      <item> 15th June, 2018 | 12.00 pm BST </item>
+      <item> 16th June, 2018 | 3.30 pm BST </item>
+      <item> 16th June, 2018 | 7.00 pm BST </item>
+      <item> 16th June, 2018 | 10.00 pm BST </item>
+      <item> 16th June, 2018 | 1.00 am BST </item>
+      <item> 17th June, 2018 | 6.00 pm BST </item>
+      <item> 17th June, 2018 | 9.00 pm BST </item>
+      <item> 17th June, 2018 | 12.00 am BST </item>
+     <!-- <item> 18th June, 2018 | 9.00 pm BST </item>
+      <item> 18th June, 2018 | 12.00 am BST </item>
+      <item> 19th June, 2018 | 6.00 pm BST </item>
+      <item> 19th June, 2018 | 9.00 pm BST </item>
+      <item> 19th June, 2018 | 12.00 am BST </item>
+      <item> 20th June, 2018 | 6.00 pm BST </item>
+      <item> 20th June, 2018 | 9.00 pm BST </item>
+      <item> 20th June, 2018 | 12.00 am BST </item>
+      <item> 21th June, 2018 | 6.00 pm BST </item>
+      <item> 21th June, 2018 | 9.00 pm BST </item>
+      <item> 21th June, 2018 | 12.00 am BST </item>
+      <item> 22th June, 2018 | 6.00 pm BST </item>
+      <item> 22th June, 2018 | 9.00 pm BST </item>
+      <item> 22th June, 2018 | 12.00 am BST </item>
+      <item> 23th June, 2018 | 6.00 pm BST </item>
+      <item> 23th June, 2018 | 9.00 pm BST </item>
+      <item> 23th June, 2018 | 12.00 am BST </item>
+      <item> 24th June, 2018 | 6.00 pm BST </item>
+      <item> 24th June, 2018 | 9.00 pm BST </item>
+      <item> 24th June, 2018 | 12.00 am BST </item>
+      <item> 25th June, 2018 | 8.00 pm BST </item>
+      <item> 25th June, 2018 | 8.00 pm BST </item>
+      <item> 25th June, 2018 | 12.00 am BST </item>
+      <item> 25th June, 2018 | 12.00 am BST </item>
+      <item> 26th June, 2018 | 8.00 pm BST </item>
+      <item> 26th June, 2018 | 12.00 am BST </item>
+      <item> 27th June, 2018 | 8.00 pm BST </item>
+      <item> 27th June, 2018 | 12.00 am BST </item>
+      <item> 27th June, 2018 | 12.00 am BST </item>
+      <item> 28th June, 2018 | 8.00 pm BST </item>
+      <item> 27th June, 2018 | 12.00 am BST </item>
+      <item> 28th June, 2018 | 8.00 pm BST </item>
+      <item> 27th June, 2018 | 12.00 am BST </item>
+      <item> 28th June, 2018 | 8.00 pm BST </item>
+      <item> 27th June, 2018 | 12.00 am BST </item>
+      <item> 28th June, 2018 | 8.00 pm BST </item>
+      <item> 27th June, 2018 | 12.00 am BST </item>
+      <item> 28th June, 2018 | 8.00 pm BST </item>-->
+
+
+
+
+
+  </string-array>
+
+  <string-array name="Description2">
+    <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+      <item> Group A | Match 1 </item>
+
+    </string-array>
+
+    <string-array name="Description3">
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+        <item>Moscow | Russia </item>
+
+    </string-array>
+
+
 </resources>
